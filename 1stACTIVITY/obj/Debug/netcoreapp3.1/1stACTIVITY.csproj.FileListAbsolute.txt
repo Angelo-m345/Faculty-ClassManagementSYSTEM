@@ -1,0 +1,13 @@
+C:\Users\Ajo Mangahas\source\repos\1stACTIVITY\1stACTIVITY\bin\Debug\netcoreapp3.1\1stACTIVITY.exe
+C:\Users\Ajo Mangahas\source\repos\1stACTIVITY\1stACTIVITY\bin\Debug\netcoreapp3.1\1stACTIVITY.deps.json
+C:\Users\Ajo Mangahas\source\repos\1stACTIVITY\1stACTIVITY\bin\Debug\netcoreapp3.1\1stACTIVITY.runtimeconfig.json
+C:\Users\Ajo Mangahas\source\repos\1stACTIVITY\1stACTIVITY\bin\Debug\netcoreapp3.1\1stACTIVITY.runtimeconfig.dev.json
+C:\Users\Ajo Mangahas\source\repos\1stACTIVITY\1stACTIVITY\bin\Debug\netcoreapp3.1\1stACTIVITY.dll
+C:\Users\Ajo Mangahas\source\repos\1stACTIVITY\1stACTIVITY\bin\Debug\netcoreapp3.1\1stACTIVITY.pdb
+C:\Users\Ajo Mangahas\source\repos\1stACTIVITY\1stACTIVITY\obj\Debug\netcoreapp3.1\1stACTIVITY.csprojAssemblyReference.cache
+C:\Users\Ajo Mangahas\source\repos\1stACTIVITY\1stACTIVITY\obj\Debug\netcoreapp3.1\1stACTIVITY.AssemblyInfoInputs.cache
+C:\Users\Ajo Mangahas\source\repos\1stACTIVITY\1stACTIVITY\obj\Debug\netcoreapp3.1\1stACTIVITY.AssemblyInfo.cs
+C:\Users\Ajo Mangahas\source\repos\1stACTIVITY\1stACTIVITY\obj\Debug\netcoreapp3.1\1stACTIVITY.csproj.CoreCompileInputs.cache
+C:\Users\Ajo Mangahas\source\repos\1stACTIVITY\1stACTIVITY\obj\Debug\netcoreapp3.1\1stACTIVITY.dll
+C:\Users\Ajo Mangahas\source\repos\1stACTIVITY\1stACTIVITY\obj\Debug\netcoreapp3.1\1stACTIVITY.pdb
+C:\Users\Ajo Mangahas\source\repos\1stACTIVITY\1stACTIVITY\obj\Debug\netcoreapp3.1\1stACTIVITY.genruntimeconfig.cache
