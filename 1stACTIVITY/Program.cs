@@ -5,9 +5,9 @@ using System.Text;
 
 namespace _1stACTIVITY
 {
-    class UserLogin
+    class Program
     {
-        static void Main(string[] args)
+       public static void Main(string[] args)
         {
             Console.WriteLine("User Login");
 
@@ -27,8 +27,7 @@ namespace _1stACTIVITY
             if (username == usernameC && password == passwordC)
             {
                 Console.WriteLine("Successfully Logged In");
-
-
+                FacultyoStudent();
             }
 
 
@@ -39,6 +38,9 @@ namespace _1stACTIVITY
         }
         static void FacultyoStudent()
         {
+            
+
+
             Console.WriteLine("Faculty or Student");
             Console.WriteLine("==================");
             Console.WriteLine("Type S, F, or E");
@@ -51,11 +53,11 @@ namespace _1stACTIVITY
             switch (FacultyoStudent)
             {
                 case 'S':
-                    Student();
+                    ViewStudents.Student();
                     break;
 
                 case 'F':
-                    Faculty();
+                    ViewFaculty.Faculty();
                     break;
 
                 case 'E':
